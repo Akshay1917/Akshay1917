@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there, I'm Akshay  
 
-<!--
-**Akshay1917/Akshay1917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI & ML Student** | 💡 **Data-Driven Innovator** | 🤖 **Deep Learning Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+I'm passionate about harnessing the power of **Artificial Intelligence** to create impactful solutions.  
+My interests span across **Deep Learning**, **Computer Vision**, and **Edge AI**, with a focus on real-world applications in **automation**, **healthcare**, and **sustainability**.  
+
+---
+
+### 🧠 What I’m Working On
+- Exploring **deep learning architectures** and **transformer models**  
+- Building **computer vision** projects using **OpenCV**, **PyTorch**, and **TensorFlow**  
+- Experimenting with **edge AI** and **on-device intelligence**  
+
+---
+
+### 🛠️ Tech Stack
+| Category | Tools & Frameworks |
+|-----------|--------------------|
+| **Languages** | Python 🐍, C++, SQL |
+| **ML / DL** | TensorFlow, PyTorch, scikit-learn |
+| **Data** | NumPy, Pandas, Matplotlib, Seaborn |
+| **Deployment** | Flask, FastAPI, Streamlit |
+| **Version Control** | Git, GitHub |
+
+---
+
+### 🌱 Learning Goals
+- Advanced optimization and model interpretability  
+- Real-time computer vision for embedded systems  
+- Scalable AI systems and MLOps  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](your-github-url)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](your-portfolio-url)
+
+---
+
+> _“The best way to predict the future is to invent it.” – Alan Kay_  
+
