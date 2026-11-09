@@ -1,122 +1,105 @@
-👋 Hey, I'm Akshay!
+<div align="center">
 
-🚀 AI & Machine Learning Student | Aspiring AI Engineer | Full-Stack Developer
+# 👋 Hey, I'm Akshay!
 
-I love turning ideas into real-world applications using Artificial Intelligence, Machine Learning, and Software Development.
+### 🚀 AI & Machine Learning Student | Aspiring AI Engineer | Full-Stack & IoT Developer
 
-Currently exploring AI-powered applications, intelligent automation, Generative AI, and scalable software solutions.
+Building intelligent applications, edge-computing solutions, and real-world technology.
 
-- 🎓 AI & ML Engineering Student at DSATM
-- 🧠 Interested in Artificial Intelligence, Deep Learning & Generative AI
-- 💻 Building full-stack applications and intelligent systems
-- 🔬 Exploring LLMs, Computer Vision and Machine Learning
-- 🌱 Constantly learning and experimenting with new technologies
-- 🎯 Goal: Become a skilled AI/ML Engineer and build impactful technology
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;IoT+%26+Embedded+Systems;Building+the+Future+with+AI" alt="Typing SVG" />
+
+</div>
 
 ---
 
-🛠️ Tech Stack
+## 👨‍💻 About Me
 
-Programming Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-AI & Machine Learning
-
-"Machine Learning" (https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-"Deep Learning" (https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"OpenCV" (https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-Web Development
-
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-Database, Tools & IoT
-
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Arduino" (https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-"ESP32" (https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+- 🎓 **Education:** Pursuing AI & ML Engineering at **DSATM**.
+- 🧠 **Focus Areas:** Generative AI, LLM applications, Computer Vision, and Deep Learning architectures.
+- ⚡ **Specialization:** Bridging full-stack web development with intelligent ML backends and IoT edge devices.
+- 💬 **Ask me about:** Python, FastAPI, Model deployment, and ESP32 hardware integrations.
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/akshay-v-215466394/)
 
 ---
 
-🚀 Featured Projects
+## 🛠️ Tech Stack
 
-🤖 AI PDF Summarizer
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-An AI-powered application designed to summarize PDF documents, extract key information and simplify document understanding.
+### AI, Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-Technologies: Python, NLP, PDF Processing
+### Web Development & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-"View Project" (https://github.com/Akshay1917/AI-PDF-Summarizer-Project)
-
-🎓 Student Management System
-
-A web-based system for managing student records, authentication, academic information and reports.
-
-Technologies: Python, Flask, MySQL, JavaScript
-
-"View Project" (https://github.com/Akshay1917/student-management-system)
-
-🚗 Vehicle Rental System
-
-A vehicle rental management application with user and administrator functionality.
-
-Technologies: Python, Flask, MySQL, HTML, CSS, JavaScript
-
-"View Project" (https://github.com/Akshay1917/vehicle-rental-system)
-
-❤️ Smart IoT Health Monitoring System
-
-An IoT-based health monitoring project using ESP32 and sensors for collecting and monitoring health-related readings.
-
-Technologies: ESP32, MAX30100, OLED, IoT
-
-"View Project" (https://github.com/Akshay1917/Smart-IoT-Health-Monitoring-System)
-
-🏠 ESP32 IoT Home Automation
-
-A smart home automation project using ESP32 and Arduino IoT Cloud.
-
-Technologies: ESP32, C++, Arduino IoT Cloud
-
-"View Project" (https://github.com/Akshay1917/ESP32-IoT-Home-Automation)
+### Databases, Tools & Hardware
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-📊 GitHub Statistics
+## 🚀 Featured Projects
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Akshay1917&show_icons=true&theme=tokyonight&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay1917&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-🔥 Contribution Streak
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=Akshay1917&theme=tokyonight&hide_border=true)
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **🤖 AI PDF Summarizer** | Intelligent document summarization tool using NLP models to extract actionable insights. | `Python` `NLP` `FastAPI` | [Repo](https://github.com/Akshay1917/AI-PDF-Summarizer-Project) |
+| **❤️ Smart IoT Health Monitor** | Real-time health monitoring device tracking biometric telemetry via sensors. | `ESP32` `MAX30100` `C++` `IoT` | [Repo](https://github.com/Akshay1917/Smart-IoT-Health-Monitoring-System) |
+| **🎓 Student Management** | Full-stack administrative dashboard handling academic records, user auth, and reports. | `Python` `Flask` `MySQL` `JS` | [Repo](https://github.com/Akshay1917/student-management-system) |
+| **🏠 ESP32 Home Automation** | Smart IoT home control system leveraging cloud triggers and custom firmware. | `ESP32` `Arduino Cloud` `C++` | [Repo](https://github.com/Akshay1917/ESP32-IoT-Home-Automation) |
+| **🚗 Vehicle Rental System** | Database-driven management suite supporting admin workflows and user bookings. | `Flask` `MySQL` `HTML/CSS` | [Repo](https://github.com/Akshay1917/vehicle-rental-system) |
 
 ---
 
-🤝 Connect With Me
+## 📊 GitHub Statistics
 
-""GitHub" (https://img.shields.io/badge/GitHub-Akshay1917-181717?style=for-the-badge&logo=github)" (https://github.com/Akshay1917)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/akshay-v-215466394/)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akshay1917&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay1917&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Akshay1917&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-💡 "Building today what the future will use tomorrow."
+## 🤝 Connect With Me
 
-⭐ If you find my projects interesting, consider giving them a star!
+<div align="center">
+
+<a href="https://github.com/Akshay1917" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/akshay-v-215466394/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+*“Building today what the future will use tomorrow.”*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Akshay1917&style=for-the-badge&color=36BCF7" alt="Profile Views" />
+
+</div>
